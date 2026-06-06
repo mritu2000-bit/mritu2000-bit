@@ -33,15 +33,15 @@ SAR data processing and analysis
 Geospatial AI workflows
 Digital twin systems (long-term interest)
 
+
 Skills
 Remote Sensing & GIS: EO/SAR imagery processing · Change detection · LULC mapping ·
 Atmospheric & radiometric correction · Object detection · Spatial modelling
 Software: ArcGIS · ArcGIS Pro · QGIS · ERDAS IMAGINE · ENVI · Google Earth Engine
 Programming: Python (GDAL · rasterio · OpenCV · GeoPandas · NumPy · Matplotlib · Py6S) ·
 PostgreSQL
+
 Reach me
-📧
-mritu2000@gmail.com
-💼 l
-inkedin.com/in/ritu-mishra-003188214
+📧mritu2000@gmail.com
+💼linkedin.com/in/ritu-mishra-003188214
 Open to GIS Engineer · Remote Sensing Engineer · GIS Analyst · EO Image Processing roles.
