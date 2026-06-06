@@ -34,6 +34,7 @@ Geospatial AI workflows
 Digital twin systems (long-term interest)
 
 
+
 Skills
 Remote Sensing & GIS: EO/SAR imagery processing · Change detection · LULC mapping ·
 Atmospheric & radiometric correction · Object detection · Spatial modelling
