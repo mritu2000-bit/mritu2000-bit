@@ -44,4 +44,5 @@ PostgreSQL
 Reach me
 📧mritu2000@gmail.com
 💼linkedin.com/in/ritu-mishra-003188214
+
 Open to GIS Engineer · Remote Sensing Engineer · GIS Analyst · EO Image Processing roles.
